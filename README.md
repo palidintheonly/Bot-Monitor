@@ -95,7 +95,7 @@ Create a `config.json` file with your bot token:
 
 4. Start the bot
 ```bash
-node index.js
+node bot.js
 ```
 
 ## Dependencies
