@@ -1,0 +1,15 @@
+{
+  "events": [
+    {
+      "botId": "1351999148035018822",
+      "guildId": "1092952464766021632",
+      "status": "online",
+      "previousStatus": "offline",
+      "timestamp": "2025-03-29T19:31:17.591Z",
+      "offlineTime": 733664,
+      "formattedOfflineTime": "12m 13s",
+      "specificStatus": "online",
+      "reason": null
+    }
+  ]
+}

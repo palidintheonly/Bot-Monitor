@@ -1,0 +1,26 @@
+{
+  "events": [
+    {
+      "botId": "678344927997853742",
+      "guildId": "1092952464766021632",
+      "status": "online",
+      "previousStatus": "offline",
+      "timestamp": "2025-03-29T19:32:08.632Z",
+      "offlineTime": 50936,
+      "formattedOfflineTime": "50s",
+      "specificStatus": "online",
+      "reason": null
+    },
+    {
+      "botId": "678344927997853742",
+      "guildId": "1092952464766021632",
+      "status": "online",
+      "previousStatus": "offline",
+      "timestamp": "2025-03-29T19:31:17.696Z",
+      "offlineTime": 733762,
+      "formattedOfflineTime": "12m 13s",
+      "specificStatus": "online",
+      "reason": null
+    }
+  ]
+}

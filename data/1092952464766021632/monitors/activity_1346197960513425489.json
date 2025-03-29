@@ -1,0 +1,49 @@
+{
+  "id": "1346197960513425489",
+  "guildId": "1092952464766021632",
+  "tag": "M.B. OAuth#9911",
+  "username": "M.B. OAuth",
+  "avatar": "https://cdn.discordapp.com/avatars/1346197960513425489/894e3f5f78c67038cd2f06968bc38b3f.webp",
+  "status": "online",
+  "lastStatusChange": "2025-03-29T19:32:07.968Z",
+  "totalOnlineTime": 60000,
+  "totalOfflineTime": 784045,
+  "lastOnline": "2025-03-29T19:32:07.968Z",
+  "lastOffline": null,
+  "presenceHistory": [
+    {
+      "botId": "1346197960513425489",
+      "guildId": "1092952464766021632",
+      "status": "online",
+      "previousStatus": "offline",
+      "timestamp": "2025-03-29T19:32:07.968Z",
+      "offlineTime": 50483,
+      "formattedOfflineTime": "50s",
+      "specificStatus": "online",
+      "reason": null
+    },
+    {
+      "botId": "1346197960513425489",
+      "guildId": "1092952464766021632",
+      "status": "online",
+      "previousStatus": "offline",
+      "timestamp": "2025-03-29T19:31:17.485Z",
+      "offlineTime": 733562,
+      "formattedOfflineTime": "12m 13s",
+      "specificStatus": "online",
+      "reason": null
+    }
+  ],
+  "onlinePercentage": 7.108625724931727,
+  "offlinePercentage": 92.89137427506827,
+  "avgSessionDuration": 0,
+  "longestSession": 0,
+  "joinedAt": "2025-03-17T17:28:09.821Z",
+  "roles": [
+    "1273675457660715068",
+    "1351245741661749301",
+    "1351261339917484092",
+    "1351921267875254346",
+    "1092952464766021632"
+  ]
+}
