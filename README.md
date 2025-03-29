@@ -61,10 +61,6 @@ A powerful Discord bot for monitoring other bots in your server, tracking uptime
 - **Exclude Role**: Role for bots to exclude from monitoring
 - **Monitor Offline**: Monitor offline status
 
-## Screenshots
-
-![Dashboard View](https://via.placeholder.com/800x400?text=Bot+Dashboard+View)
-![Status Notification](https://via.placeholder.com/400x200?text=Status+Notification+Example)
 
 ## Requirements
 
